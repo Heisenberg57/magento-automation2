@@ -59,6 +59,12 @@ Screenshots for every step are saved in the `screenshots/` folder.
 
 MIT
 
+## Test Cases
+
+Manual test cases are documented in [TestCases.xlsx](./TestCases.xlsx).
+
+<!-- If you put it in a folder, use: [TestCases.xlsx](./docs/TestCases.xlsx) -->
+
 ## Note
 
 The Magento demo site became unavailable during my assignment.  
